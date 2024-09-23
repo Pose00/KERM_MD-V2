@@ -1,10 +1,10 @@
-#        Ҝ乇尺爪 爪ᗪ ᐯ2
+#        Alton 爪ᗪ ᐯ2
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS%E2%84%A2%EF%B8%8F" alt="Typing SVG" /></a>   
             
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
+<up A simple WhatsApp User Bot Coded By oeil de faucon</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/40ffc2a288542560c887c.jpg"/>       
